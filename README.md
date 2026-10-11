@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Rohit Raj 👋</h1>
+Passionate about Machine Learning, Deep Learning, and LLMs. I learn by building and deploying real projects, and I'm aiming for an AI/LLM Engineer role.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheR0HIT&label=PROFILE+VIEWS&color=7B2CBF&style=flat-square" alt="Profile views" />
@@ -18,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=2F81F7&center=true&vCenter=true&width=700&height=60&lines=Building+AI+systems+with+ML%2C+DL+%26+LLMs;Aspiring+AI+%2F+LLM+Engineer" alt="Typing SVG" />
 </p>
 
-I'm a second-year B.Tech Computer Science student from Muzaffarpur, Bihar, working toward an **AI / LLM Engineer** role.
+I'm a second-year B.Tech Computer Science student , working toward an **AI / LLM Engineer** role.
 I learn by building: every concept I study ends up as a project, and every project gets deployed so it can be used, not just read.
 
 - 🔭 Currently building **rag-tutor-bot**, a versioned RAG system (v1.0 → v1.4) with an evaluation harness to benchmark every improvement
@@ -99,8 +100,8 @@ I learn by building: every concept I study ends up as a project, and every proje
 
 <p align="center">
   <a href="https://github.com/TheR0HIT"><img src="https://img.shields.io/badge/GitHub-TheR0HIT-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohit-raj-a7491a292"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="rohitrajsingh973@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Building in public, one deployed project at a time.</i></p>
