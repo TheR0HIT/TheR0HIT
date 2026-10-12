@@ -8,7 +8,7 @@
 Passionate about Machine Learning, Deep Learning, and LLMs. I learn by building and deploying real projects, and I'm aiming for an AI/LLM Engineer role.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheR0HIT&label=PROFILE+VIEWS&color=7B2CBF&style=flat-square" alt="Profile views" />
+  <img src=https://visitor-badge.laobi.icu/badge?page_id=TheR0HIT.TheR0HIT />
 </p>
 
 ---
